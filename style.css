@@ -282,11 +282,11 @@ section.success {
 
 .btn-outline-light {
     margin-top: 15px;
-    border: solid 2px #ffd664;
+    border: solid 2px #ffdb78;
     font-size: 20px;
     font-weight: normal;
     color: #253443;
-    background: #ffd664;
+    background: #ffdb78;
     transition: all .3s ease-in-out;
 }
 
@@ -294,7 +294,7 @@ section.success {
 .btn-outline-light:focus,
 .btn-outline-light:active,
 .btn-outline-light.active {
-    border: solid 2px #ffd664;
+    border: solid 2px #ffdb78;
     color: #253443;
     background: #fff;
 }
