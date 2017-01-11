@@ -186,11 +186,14 @@ section h2 {
     font-size: 3em;
 }
 
-section.success {
+section.success-light {
     color: #253443;
     background: #fff;
 }
-
+section.success {
+    color: #fff;
+    background: #4ac48d;
+}
 @media(max-width:767px) {
     section {
         padding: 75px 0;
