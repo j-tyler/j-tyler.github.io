@@ -260,12 +260,12 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #ffcb3d;
+    border: solid 2px #fff;
     font-size: 20px;
-    color: #ffcb3d;
-    background: 0 0;
+    color: #fff;
+    background: #ffcb3d;
     transition: all .3s ease-in-out;
-}
+}i
 
 .btn-outline:hover,
 .btn-outline:focus,
