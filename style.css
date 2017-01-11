@@ -260,9 +260,9 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 2px #ffcb3d;
     font-size: 20px;
-    color: #fff;
+    color: #ffcb3d;
     background: 0 0;
     transition: all .3s ease-in-out;
 }
@@ -272,7 +272,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #4ac48d;
+    color: #ffcb3d;
     background: #fff;
 }
 
