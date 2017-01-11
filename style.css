@@ -260,11 +260,11 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 3px #ffcb3d;
+    border: solid 3px #fff;
     font-size: 20px;
     font-weight: normal;
-    color: #ffcb3d;
-    background: #fff;
+    color: #fff;
+    background: #ffcb3d;
     transition: all .3s ease-in-out;
 }
 
@@ -273,8 +273,8 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 3px #fff;
-    color: #fff;
-    background: #ffcb3d;
+    color: #ffcb3d;
+    background: #fff;
 }
 
 .floating-label-form-group {
