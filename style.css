@@ -285,7 +285,7 @@ section.success {
     border: solid 2px #ffdb78;
     font-size: 20px;
     font-weight: normal;
-    color: #253443;
+    color: #fff;
     background: #ffdb78;
     transition: all .3s ease-in-out;
 }
