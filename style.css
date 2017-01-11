@@ -187,8 +187,8 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #4ac48d;
+    color: #253443;
+    background: #fff;
 }
 
 @media(max-width:767px) {
@@ -276,6 +276,26 @@ section.success {
     color: #fff;
     background: #4ac48d;
 }
+
+.btn-outline-light {
+    margin-top: 15px;
+    border: solid 2px #ffcb3d;
+    font-size: 20px;
+    font-weight: normal;
+    color: #253443;
+    background: #ffcb3d;
+    transition: all .3s ease-in-out;
+}
+
+.btn-outline-light:hover,
+.btn-outline-light:focus,
+.btn-outline-light:active,
+.btn-outline-light.active {
+    border: solid 2px #ffcb3d;
+    color: #253443;
+    background: #fff;
+}
+
 
 .floating-label-form-group {
     position: relative;
