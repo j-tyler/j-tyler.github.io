@@ -299,7 +299,7 @@ section.success {
     font-size: 20px;
     font-weight: normal;
     color: #253443;
-    background: #ffdb78;
+    background: rgb(255, 219, 120, .5);
     transition: all .3s ease-in-out;
 }
 
