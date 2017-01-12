@@ -299,7 +299,7 @@ section.success {
     font-size: 20px;
     font-weight: normal;
     color: #253443;
-    background: rgb(255, 219, 120, .5);
+    background: rgb(255, 219, 120);
     transition: all .3s ease-in-out;
 }
 
@@ -308,7 +308,7 @@ section.success {
 .btn-outline-light:active,
 .btn-outline-light.active {
     border: solid 1px #253443;
-    color: #253443;
+    color: rgba(255, 219, 120, .5);
     background: #fff;
 }
 
