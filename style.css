@@ -280,7 +280,7 @@ section.success {
     font-size: 25px;
 }
 
-.@{fa-css-prefix}-spin {
+.fa-spin {
   -webkit-animation: fa-spin 4s infinite linear;
           animation: fa-spin 4s infinite linear;
 }
