@@ -308,8 +308,8 @@ section.success {
 .btn-outline-light:active,
 .btn-outline-light.active {
     border: solid 1px #253443;
-    color: #253443;
-    background: rgba(255, 219, 120, .5);
+    color: #ffdb78;
+    background: #253443;
 }
 
 
