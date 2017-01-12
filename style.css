@@ -190,10 +190,17 @@ section.success-light {
     color: #253443;
     background: #fff;
 }
+
+section.success-light:hover,
+section.success-light:focus {
+    color: #ffdb78;
+    background: #4ac48d;
+}
 section.success {
     color: #fff;
     background: #4ac48d;
 }
+
 @media(max-width:767px) {
     section {
         padding: 40px 0;
