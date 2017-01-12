@@ -192,10 +192,18 @@ section.success-light {
 }
 
 section.success-light:hover,
-section.success-light:focus {
-    color: #ffdb78;
-    background: #253443;
+seciton.success-light:focus,
+section.success-light:active {
+    .btn-outline-light:hover,
+    .btn-outline-light:focus,
+    .btn-outline-light:active,
+    .btn-outline-light.active {
+        border: solid 1px #253443;
+        color: #ffdb78;
+        background: #253443;
+    }
 }
+
 section.success {
     color: #253443;
     background: #fff;
@@ -203,13 +211,6 @@ section.success {
     transition: color .2s ease-in-out;  
 }
 
-section.success:hover,
-section.success:focus {
-    color: #fff;
-    background: #4ac48d;
-    transition: background .4s ease-in-out;
-    transition: color .2s ease-in-out;
-}
 @media(max-width:767px) {
     section {
         padding: 40px 0;
