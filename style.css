@@ -187,15 +187,19 @@ section h2 {
 }
 
 div.skills-div {
-    margin: auto;
-    padding: 20px;
+    float: right;
+    position: relative;
+    left: -50%;
+    text-align: left;
 }
 
 div.skills-left,
 div.skills-right {
-    display:inline-block;
-    width: 250px;
-    margin: 20px;
+    position: relative;
+    left: 50%;
+    display: inline-block;
+    width: 350px;
+    margin: 15px;
 }
 
 section.success-light {
