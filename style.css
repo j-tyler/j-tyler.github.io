@@ -191,21 +191,9 @@ section.success-light {
     background: #fff;
 }
 
-section.success-light:hover,
-seciton.success-light:focus,
-section.success-light:active {
-    .btn-outline-light {
-        border: solid 1px #253443;
-        color: #ffdb78;
-        background: #253443;
-    }
-}
-
 section.success {
-    color: #253443;
-    background: #fff;
-    transition: background .4s ease-in-out;
-    transition: color .2s ease-in-out;  
+    color: #fff;
+    background: #4ac48d;
 }
 
 @media(max-width:767px) {
