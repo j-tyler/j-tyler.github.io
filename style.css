@@ -199,16 +199,16 @@ section.success-light:focus {
 section.success {
     color: #253443;
     background: #fff;
-    transition: background .5s ease-in-out;
-    transition: color .5s ease-in-out;  
+    transition: background .4s ease-in-out;
+    transition: color .2s ease-in-out;  
 }
 
 section.success:hover,
 section.success:focus {
     color: #fff;
     background: #4ac48d;
-    transition: background .5s ease-in-out;
-    transition: color .5s ease-in-out;
+    transition: background .4s ease-in-out;
+    transition: color .2s ease-in-out;
 }
 @media(max-width:767px) {
     section {
