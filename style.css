@@ -186,6 +186,10 @@ section h2 {
     font-size: 3em;
 }
 
+div.skills-left {
+    float: right;
+}
+
 section.success-light {
     color: #253443;
     background: #fff;
