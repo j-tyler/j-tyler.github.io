@@ -272,8 +272,10 @@ section.success {
 }
 
 .fa-github,
-.fa-code-fork {
-    font-size: 30px;
+.fa-code-fork,
+.fa-linkedin-square,
+.fa-twitter {
+    font-size: 25px;
 }
 
 .btn-outline:hover,
