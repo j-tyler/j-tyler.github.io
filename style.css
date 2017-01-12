@@ -280,6 +280,10 @@ section.success {
     font-size: 25px;
 }
 
+.@{fa-css-prefix}-spin {
+  -webkit-animation: fa-spin 4s infinite linear;
+          animation: fa-spin 4s infinite linear;
+}
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active,
