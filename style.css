@@ -196,11 +196,11 @@ section.success {
 }
 @media(max-width:767px) {
     section {
-        padding: 75px 0;
+        padding: 40px 0;
     }
 
     section.first {
-        padding-top: 75px;
+        padding-top: 40px;
     }
 }
 
@@ -269,6 +269,10 @@ section.success {
     color: #4ac48d;
     background: #fff;
     transition: all .3s ease-in-out;
+}
+
+.btn-outline.fa {
+    font-size: 30px;
 }
 
 .btn-outline:hover,
