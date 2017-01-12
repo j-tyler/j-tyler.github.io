@@ -186,8 +186,9 @@ section h2 {
     font-size: 3em;
 }
 
-ul.skills-left {
-    text-align: right;
+div.skills-div {
+    margin: auto;
+    padding: 20px;
 }
 
 div.skills-left,
