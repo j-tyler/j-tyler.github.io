@@ -275,7 +275,8 @@ section.success {
 .fa-code-fork,
 .fa-linkedin-square,
 .fa-twitter,
-.fa-envelope {
+.fa-envelope,
+.fa-sun-o {
     font-size: 25px;
 }
 
@@ -302,7 +303,7 @@ section.success {
 .btn-outline-light:focus,
 .btn-outline-light:active,
 .btn-outline-light.active {
-    border: solid 1px #ffdb78;
+    border: solid 1px #253443;
     color: #253443;
     background: #fff;
 }
