@@ -271,7 +271,8 @@ section.success {
     transition: all .3s ease-in-out;
 }
 
-.btn-outline.fa {
+.fa-github,
+.fa-code-fork {
     font-size: 30px;
 }
 
