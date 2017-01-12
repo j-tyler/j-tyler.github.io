@@ -192,10 +192,9 @@ ul.skills-left {
 
 div.skills-left,
 div.skills-right {
-    width: 45%;
-}
-div.skills-div {
-    width: 9%;
+    display:inline-block;
+    width: 250px;
+    margin: 20px;
 }
 
 section.success-light {
