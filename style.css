@@ -199,7 +199,14 @@ div.skills-right {
     left: 50%;
     display: inline-block;
     width: 350px;
-    margin: 15px;
+}
+
+div.skills-left {
+    margin-right: 20px;
+}
+
+div.skills-right {
+    margin-left: 20px;
 }
 
 section.success-light {
