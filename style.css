@@ -191,6 +191,7 @@ div.skills-div {
     position: relative;
     left: -50%;
     text-align: left;
+    text-size: 16px;
 }
 
 div.skills-left,
