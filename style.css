@@ -198,15 +198,16 @@ div.skills-right {
     position: relative;
     left: 50%;
     display: inline-block;
-    width: 350px;
+    width: 400px;
+    margin: 15px;
 }
 
-div.skills-left {
-    margin-right: 20px;
-}
-
-div.skills-right {
-    margin-left: 20px;
+@media(max-width: 992px) {
+    div.skills-left,
+    div.skills-right {
+        width: 300px;
+        margin: 15px;
+    }
 }
 
 section.success-light {
