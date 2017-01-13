@@ -206,7 +206,7 @@ div.skills-right {
 @media(max-width: 992px) {
     div.skills-left,
     div.skills-right {
-        width: 300px;
+        width: 330px;
         margin: 15px;
     }
 }
