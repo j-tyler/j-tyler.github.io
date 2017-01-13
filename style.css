@@ -186,6 +186,10 @@ section h2 {
     font-size: 3em;
 }
 
+span.skills {
+    font-size: 20px;
+}
+
 div.skills-div {
     float: right;
     position: relative;
