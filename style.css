@@ -212,6 +212,7 @@ div.skills-right {
     div.skills-left,
     div.skills-right {
         display: block;
+        width: 90%;
     }
 }
 
