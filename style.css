@@ -53,7 +53,16 @@ hr.star-primary {
     text-align: center;
 }
 
-hr.star-light:after,
+hr.star-light:after {
+    content: "\f121";
+    display: inline-block;
+    position: relative;
+    top: -.8em;
+    padding: 0 .25em;
+    font-family: FontAwesome;
+    font-size: 2em; 
+}
+
 hr.star-primary:after {
     content: "\f006";
     display: inline-block;
@@ -213,7 +222,8 @@ div.skills-right {
     div.skills-right {
         display: block;
         width: 98%;
-        margin: 5px;
+        margin: 10px;
+        margin-left; 0px;
     }
 }
 
