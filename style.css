@@ -213,6 +213,7 @@ div.skills-right {
     div.skills-right {
         display: block;
         width: 98%;
+        margin: 5px;
     }
 }
 
