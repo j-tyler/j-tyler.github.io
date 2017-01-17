@@ -216,6 +216,10 @@ div.skills-right {
     }
 }
 
+li.liskills {
+    padding-bottom: 15px;
+}
+
 section.success-light {
     color: #253443;
     background: #fff;
