@@ -106,7 +106,7 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 3em;
+    font-size: 2.6em;
     font-weight: 700;
 }
 
@@ -122,7 +122,7 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4em;
+        font-size: 3.4em;
     }
 
     header .intro-text .skills {
@@ -212,7 +212,7 @@ div.skills-right {
     div.skills-left,
     div.skills-right {
         display: block;
-        width: 90%;
+        width: 98%;
     }
 }
 
