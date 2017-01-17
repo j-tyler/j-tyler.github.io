@@ -187,7 +187,7 @@ section h2 {
 }
 
 span.skills {
-    font-size: 20px;
+    font-size: 24px;
 }
 
 div.skills-div {
@@ -195,7 +195,7 @@ div.skills-div {
     position: relative;
     left: -50%;
     text-align: left;
-    font-size: 16px;
+    font-size: 19px;
 }
 
 div.skills-left,
@@ -204,15 +204,14 @@ div.skills-right {
     left: 50%;
     display: inline-block;
     vertical-align: top;
-    width: 400px;
+    width: 410px;
     margin: 15px;
 }
 
 @media(max-width: 992px) {
     div.skills-left,
     div.skills-right {
-        width: 330px;
-        margin: 8px;
+        display: block;
     }
 }
 
