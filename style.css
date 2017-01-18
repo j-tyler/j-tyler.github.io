@@ -222,13 +222,16 @@ div.skills-right {
     div.skills-right {
         display: block;
         width: 98%;
-        margin: 10px;
-        margin-right; 0px;
+        margin: 5px;
     }
 }
 
 li.liskills {
     padding-bottom: 10px;
+}
+
+ul.fa-ul {
+    margin-left: 30px;
 }
 
 section.success-light {
